@@ -51,7 +51,7 @@
                 {
                     "type": "Link",
                     "label": "Project X",
-                    "altText": "",
+                    "altText": "Project X",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
