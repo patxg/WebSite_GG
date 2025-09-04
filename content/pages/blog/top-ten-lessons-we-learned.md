@@ -1,7 +1,7 @@
 ---
 title: Coming to Steam Fall 2025
 slug: top-ten-lessons-we-learned
-date: ''
+date: '2025-09-01'
 excerpt: >-
   Snowball’s Chance in Hell is a turn-based tactical tower defense where frosty
   forts and holiday magic square off against literal demons. By day, you’re
