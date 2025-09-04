@@ -116,7 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Learn • Build • Ship
+      - title: Rey
         subtitle: Teaching Studio Promise
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
