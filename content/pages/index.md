@@ -15,7 +15,7 @@ sections:
       an inclusive space for people to learn and grow, while supporting each
       other along the way. Ready to join us? Let's play.
     actions:
-      - label: Get started
+      - label: Steam
         altText: ''
         url: /
         showIcon: false
