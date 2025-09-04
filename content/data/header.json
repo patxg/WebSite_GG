@@ -22,17 +22,6 @@
             "type": "Link"
         },
         {
-            "type": "Button",
-            "label": "Games",
-            "altText": "",
-            "url": "/Games",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
