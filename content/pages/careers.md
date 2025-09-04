@@ -10,7 +10,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: ''
+    text: >
+      At Guilty Games, we seek to create novel experiences that captivate
+      players and leave an impact on the world. As a teaching studio, our
+      mission extends beyond game development, as we're dedicated to fostering
+      an inclusive space for people to learn and grow, while supporting each
+      other along the way. Ready to join us? Let's play.
     actions:
       - label: See open positions
         url: /
