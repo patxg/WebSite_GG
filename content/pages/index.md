@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Our Vision & Mission
+      text: Guilty Games
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
