@@ -139,6 +139,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: Teaching Studio Promise
     actions:
       - label: Get started
         altText: ''
