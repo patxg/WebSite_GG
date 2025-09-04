@@ -236,7 +236,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Data Science & Research
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           ...
         image:
