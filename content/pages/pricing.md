@@ -20,7 +20,6 @@ sections:
         features:
           - Feature one
           - Feature two
-          - Feature three
           - Feature four
         actions: []
         colors: bg-neutral-fg-dark
