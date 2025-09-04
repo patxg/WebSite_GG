@@ -11,7 +11,7 @@ excerpt: >-
   toddler built it. Outwit, outlast, and maybe prove that you do have a
   snowball’s chance in hell.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/Library Hero.png
   altText: Thumbnail
   type: ImageBlock
   styles:
