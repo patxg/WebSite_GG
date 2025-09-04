@@ -148,7 +148,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: What we do
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
