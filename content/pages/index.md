@@ -351,7 +351,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Let us know
+      text: Let us know what you think
       color: text-light
       type: TitleBlock
     subtitle: Section with a form subtitle
