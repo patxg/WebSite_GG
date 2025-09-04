@@ -110,7 +110,7 @@ sections:
         type: FeaturedItem
       - title: Project X
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Realising July 2028
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
