@@ -85,7 +85,7 @@ sections:
     items: []
     actions:
       - label: Apply now
-        url: /
+        url: 'https://forms.gle/vqhw5Swgcu1B33Qw6'
         icon: arrowRight
         iconPosition: right
         style: primary
