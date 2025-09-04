@@ -29,8 +29,9 @@ topSections:
     hoverEffect: move-up
   - type: GenericSection
     subtitle: ....
-    text: |
-      First Trailer for Snowball's Chance in Hell
+    text: |+
+      # **Snowball's Chance In Hell**
+
     actions: []
     media:
       type: VideoBlock
