@@ -30,7 +30,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: Mechanics Dictate Experience
         text: |+
           *   We prioritize tight, responsive gameplay over flashy gimmicks.
 
