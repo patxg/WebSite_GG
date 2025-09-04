@@ -93,10 +93,8 @@ sections:
         tagline: Game Archon & Deal Maker
       - title: Pat
         subtitle: CTO
-        text: |+
-          Builds the tech that powers the studio — from Unity prototypes to
-           custom tools. Ensures creativity has a stable, scalable foundation.
-
+        text: |
+          Manages studio operations, technical direction, and optimization.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
