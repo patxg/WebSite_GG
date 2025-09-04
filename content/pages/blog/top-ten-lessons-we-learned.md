@@ -6,21 +6,10 @@ excerpt: >-
   Snowball’s Chance in Hell is a turn-based tactical tower defense where frosty
   forts and holiday magic square off against literal demons. By day, you’re
   stacking snow and plotting defenses like the over-caffeinated commander you
-  are.
-
-  Features:Build Snow Forts: Shape the battlefield, funnel enemies, and make
-  Frosty proud.Summon Guardians With Attitude: From mystical mages to
-  snowball-slinging brutes, each guardian has quirks, powers, and upgrade paths
-  to toy with.Play With Dangerous Relics: Collect bizarre magical trinkets that
-  can either save your hide.Battle Hellspawn (Literally): Imps, brutes, and
-  other unholy nasties keep things spicy each with a trick up their flaming
-  sleeves.Conquer Snowy Biomes & Cursed Landscapes: Frozen forests, infernal
-  rifts, and who-knows-what-else await your defense plans.
-
-  Why Bother?Because every night gets worse. The waves get bigger, the demons
-  get meaner, and your “brilliant” plan might suddenly look like a toddler built
-  it. Outwit, outlast, and maybe prove that you do have a snowball’s chance in
-  hell.
+  are. Why Bother?Because every night gets worse. The waves get bigger, the
+  demons get meaner, and your “brilliant” plan might suddenly look like a
+  toddler built it. Outwit, outlast, and maybe prove that you do have a
+  snowball’s chance in hell.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
