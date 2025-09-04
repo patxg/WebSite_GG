@@ -24,6 +24,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://discord.gg/hmjrNCJyTa'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: Discord
         altText: ''
         url: 'https://discord.gg/hmjrNCJyTa'
