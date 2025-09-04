@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Mason
-        subtitle: Numbers Done
+        subtitle: CEO
         text: |
           Leads vision, narrative, and player experience. Believes games should
           be both playful and pointed, making people smile while they think.
