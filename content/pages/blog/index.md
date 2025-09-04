@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Snowball's Chance In Hell
+      text: Games
       color: text-dark
       type: TitleBlock
     subtitle: Currently in Wishlist
