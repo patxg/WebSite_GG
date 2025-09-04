@@ -139,7 +139,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-        tagline: ''
+        tagline: Studio Culture & Community Lead
     actions:
       - label: Get started
         altText: ''
