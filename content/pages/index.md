@@ -93,9 +93,9 @@ sections:
               borderRadius: x-large
       - title: Pat
         subtitle: CTO
-        text: |2+
-                    Builds the tech that powers the studio — from Unity prototypes to
-                    custom tools. Ensures creativity has a stable, scalable foundation.
+        text: |+
+          Builds the tech that powers the studio — from Unity prototypes to
+           custom tools. Ensures creativity has a stable, scalable foundation.
 
         image:
           url: /images/icon2.svg
