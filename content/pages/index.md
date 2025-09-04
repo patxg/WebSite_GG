@@ -91,6 +91,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: Game Archon & Deal Maker
       - title: Pat
         subtitle: CTO
         text: |+
