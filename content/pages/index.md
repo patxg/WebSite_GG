@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Est 2025
+      label: Est 2024
       color: text-primary
       type: Badge
     elementId: ''
