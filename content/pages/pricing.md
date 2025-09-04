@@ -22,13 +22,7 @@ sections:
           - Feature two
           - Feature three
           - Feature four
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
