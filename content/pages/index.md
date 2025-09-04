@@ -407,7 +407,7 @@ sections:
       label: Contact Us
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
