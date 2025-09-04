@@ -67,14 +67,6 @@
             "altText": "Dejere",
             "links": [
                 {
-                    "label": "Snowball's Chance In Hell",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "label": "Made of Clay",
                     "url": "/",
                     "icon": "arrowRight",
