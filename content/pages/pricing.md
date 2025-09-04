@@ -89,10 +89,20 @@ sections:
       - type: FeaturedItem
         title: Visuals
         subtitle: Polish & Presentation Matter
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+
+          *   Every animation, sound cue, and UI element reinforces game feel.
+
+
+          *   Strong visual and audio feedback makes every interaction
+          satisfying.
+
+
+          *   Our goal: Games that feel tactile, immersive, and rewarding.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon3.svg
