@@ -28,13 +28,6 @@ topSections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Trailer
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
     subtitle: ....
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
