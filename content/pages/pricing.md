@@ -61,7 +61,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        tagline: Mechanics Dictate Experience
+        tagline: Gameplay First
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
