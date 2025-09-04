@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Guilty Games
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Vision & Mission
     text: >
@@ -24,15 +24,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Discord
+      - type: Button
+        label: Discord
         altText: ''
         url: 'https://discord.gg/hmjrNCJyTa'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
-        type: Link
     media:
       url: /images/Logo_GG.png
       altText: Unblock your team boost your time to production preview
@@ -40,10 +40,10 @@ sections:
       type: ImageBlock
     badge:
       label: Est 2024
-      color: text-primary
+      color: text-neutral
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -54,21 +54,21 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: List of features here
-      color: text-primary
+      text: Games
+      color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - title: Snowball's Chance In Hell
         tagline: This is the tagline
         subtitle: December 2025
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Fall 2025
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/snowballs_chance.png
           altText: Placeholder Image
           styles:
             self:
@@ -89,9 +89,9 @@ sections:
         tagline: This is the tagline
         subtitle: July 2026
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Summer 2026
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/moc.png
           altText: Placeholder image
           styles:
             self:
@@ -111,9 +111,8 @@ sections:
       - title: Project X
         tagline: This is the tagline
         subtitle: July 2028
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          Summer 2028
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -133,7 +132,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -148,7 +147,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: What we do
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -159,7 +158,7 @@ sections:
         title: Consulting
         subtitle: ''
         text: |
-          Oversees game design, monetization, and business strategy.
+          ...
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -186,7 +185,7 @@ sections:
       - title: Game Design
         subtitle: ''
         text: |
-          Manages studio operations, technical direction, and optimization.
+          ...
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -206,42 +205,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        tagline: Code & Ops Commander
+        tagline: ''
       - type: FeaturedItem
         title: Indie Solutions
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: Sci-Fi Games
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          ...
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -265,11 +234,9 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Data Science & Research
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: ''
+        text: |
+          ...
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -291,16 +258,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: ''
       color: text-primary
@@ -309,8 +267,8 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    variant: two-col-grid
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -321,39 +279,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -362,8 +289,26 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - subtitle: Award winning enterprises trust us
+    images:
+      - altText: Empathy logo
+        type: ImageBlock
+      - url: /images/knight lvl2 F.png
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -373,8 +318,8 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Generic Section With A Form
-      color: text-dark
+      text: Let us know what you think
+      color: text-light
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: |-
@@ -427,9 +372,9 @@ sections:
         elementId: null
     badge:
       label: Contact Us
-      color: text-primary
+      color: text-neutral
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
