@@ -234,7 +234,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Guilty Games
+      label: ''
       color: text-primary
       styles:
         self:
