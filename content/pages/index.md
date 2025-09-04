@@ -26,7 +26,7 @@ sections:
         type: Button
       - label: Discord
         altText: ''
-        url: /
+        url: 'https://discord.gg/hmjrNCJyTa'
         showIcon: true
         icon: arrowRight
         iconPosition: right
