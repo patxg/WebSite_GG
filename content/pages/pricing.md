@@ -87,7 +87,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Polish & Presentation Matter
+        title: Visuals
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
