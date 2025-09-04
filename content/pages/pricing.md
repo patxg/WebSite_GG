@@ -53,7 +53,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        tagline: Gameplay First
+        tagline: ''
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
