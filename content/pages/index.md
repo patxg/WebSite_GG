@@ -89,7 +89,7 @@ sections:
         tagline: This is the tagline
         subtitle: July 2026
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Summer 2026
         image:
           url: /images/moc.png
           altText: Placeholder image
