@@ -57,10 +57,18 @@ sections:
       - type: FeaturedItem
         title: Iterative Design
         subtitle: 'Ship Small, Build Big'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Our modular, scalable development ensures we test early and refine
+          continuously.
+
+
+          *   We prototype core mechanics first before adding complexity.
+
+
+          *   We embrace fail-fast learning—bad ideas get scrapped quickly.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon2.svg
