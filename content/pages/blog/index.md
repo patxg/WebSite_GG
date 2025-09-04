@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Game Blogs
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
