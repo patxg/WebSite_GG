@@ -117,7 +117,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Learn • Build • Ship
-        subtitle: Faster
+        subtitle: Teaching Studio Promise
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
