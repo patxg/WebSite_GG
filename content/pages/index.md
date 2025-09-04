@@ -116,7 +116,7 @@ sections:
         type: FeaturedItem
         tagline: Code & Ops Commander
       - type: FeaturedItem
-        title: Emily
+        title: Simulations
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
