@@ -56,7 +56,7 @@ sections:
         tagline: ''
       - type: FeaturedItem
         title: Iterative Design
-        subtitle: The Job Stuff
+        subtitle: 'Ship Small, Build Big'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
