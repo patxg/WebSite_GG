@@ -92,7 +92,7 @@
                 {
                     "type": "Link",
                     "label": "Indie Solutions",
-                    "altText": "",
+                    "altText": "Indie Solutions",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
