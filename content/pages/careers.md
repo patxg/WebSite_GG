@@ -81,7 +81,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Join Our Guilty Team
     items: []
     actions:
       - label: Apply now
