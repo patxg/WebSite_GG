@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At Guilty Games, we seek to create novel experiences that captivate
+      players and leave an impact on the world. As a teaching studio, our
+      mission extends beyond game development, as we're dedicated to fostering
+      an inclusive space for people to learn and grow, while supporting each
+      other along the way. Ready to join us? Let's play.
     actions:
       - label: Get started
         altText: ''
