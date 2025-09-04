@@ -65,16 +65,7 @@
         {
             "label": "Delete",
             "altText": "Dejere",
-            "links": [
-                {
-                    "label": "Made of Clay",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
