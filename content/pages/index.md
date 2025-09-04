@@ -74,7 +74,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Games
       color: text-dark
   - type: FeaturedItemsSection
     title:
