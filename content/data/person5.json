@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Drake Garza",
-    "role": "Job title",
+    "name": "Rey",
+    "role": "Co-founder",
     "image": {
-        "url": "/images/avatar5.svg",
+        "url": "/images/avatar1.svg",
         "altText": "Drake Garza",
         "styles": {
             "self": {

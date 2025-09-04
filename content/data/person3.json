@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Emily",
+    "role": "Co-founder",
     "image": {
-        "url": "/images/avatar3.svg",
+        "url": "/images/avatar1.svg",
         "altText": "Asher Schmitt",
         "styles": {
             "self": {

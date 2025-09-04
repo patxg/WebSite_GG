@@ -19,7 +19,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         },
         {
             "type": "SubNav",
@@ -28,8 +29,8 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Snowball's Chance in Hell",
+                    "altText": "Snowball's Chance in Hell",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -39,8 +40,8 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Made of Clay",
+                    "altText": "Made of Clay",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -50,8 +51,8 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Project X",
+                    "altText": "Project X",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -61,10 +62,73 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "SubNav",
+            "label": "Services",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Consulting",
+                    "altText": "Consulting",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Game Design",
+                    "altText": "Game Design",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Indie Solutions",
+                    "altText": "Indie Solutions",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Data Science and Research",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "About Us",
+            "altText": "About Us",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-dark-fg-light",
     "type": "Header"
 }

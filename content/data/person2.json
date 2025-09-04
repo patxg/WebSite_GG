@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Pat",
+    "role": "Co-founder",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/avatar1.svg",
         "altText": "Faizah Chan",
         "styles": {
             "self": {

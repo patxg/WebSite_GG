@@ -9,16 +9,16 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Our Vision & Mission
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      At Guilty Games, we seek to create novel experiences that captivate
+      players and leave an impact on the world. As a teaching studio, our
+      mission extends beyond game development, as we're dedicated to fostering
+      an inclusive space for people to learn and grow, while supporting each
+      other along the way. Ready to join us? Let's play.
     actions:
       - label: See open positions
-        url: /
+        url: 'https://forms.gle/vqhw5Swgcu1B33Qw6'
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -56,11 +56,11 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
+      - content/data/Mason.json
       - content/data/person2.json
       - content/data/person3.json
       - content/data/person4.json
       - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -81,70 +81,16 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
+    subtitle: Join Our Guilty Team
+    items: []
     actions:
       - label: Apply now
-        url: /
+        url: 'https://forms.gle/vqhw5Swgcu1B33Qw6'
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
+        altText: Form Link
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
