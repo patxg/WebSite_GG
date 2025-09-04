@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Snowball's
+      text: Snowball's Chance In Hell
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
