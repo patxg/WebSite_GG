@@ -64,7 +64,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Mason
         subtitle: Numbers Done
         text: |
           Leads vision, narrative, and player experience. Believes games should
