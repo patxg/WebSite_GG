@@ -64,7 +64,7 @@ sections:
     items:
       - title: Snowball's Chance In Hell
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: December 2025
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
