@@ -183,7 +183,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: Game Archon & Deal Maker
-      - title: Voice Overs
+      - title: Game Design
         subtitle: ''
         text: |
           Manages studio operations, technical direction, and optimization.
