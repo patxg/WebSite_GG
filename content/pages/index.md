@@ -325,8 +325,6 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-      - altText: Wellster logo
-        type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
