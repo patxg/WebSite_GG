@@ -3,7 +3,7 @@ title: About
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: About
       color: text-dark
       styles:
         self:
