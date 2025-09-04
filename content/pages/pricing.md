@@ -11,27 +11,6 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature four
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
       - title: Professional
         price: $99
         details: per month
