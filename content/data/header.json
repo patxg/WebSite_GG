@@ -23,7 +23,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Games",
             "altText": "",
             "url": "/Games",
             "showIcon": false,
