@@ -64,7 +64,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Services",
             "altText": "Dropdown",
             "links": [
                 {
