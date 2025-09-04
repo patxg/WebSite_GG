@@ -116,6 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: Code & Ops Commander
       - title: Rey
         subtitle: ''
         text: >-
