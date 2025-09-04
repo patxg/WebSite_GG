@@ -8,7 +8,7 @@ topSections:
       text: Snowball's Chance In Hell
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Currently in Wishlist
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
