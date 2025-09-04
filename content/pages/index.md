@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Mason
-        subtitle: CEO
+        subtitle: ''
         text: |
           Oversees game design, monetization, and business strategy.
         actions: []
