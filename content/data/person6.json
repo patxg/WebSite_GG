@@ -3,7 +3,6 @@
     "name": "Noah",
     "role": "Software Engineer Intern",
     "image": {
-        "url": "/images/avatar1.svg",
         "altText": "Harrison Tally",
         "styles": {
             "self": {
