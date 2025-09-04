@@ -325,9 +325,6 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
       - url: /images/knight lvl2 F.png
         altText: Contentful logo
         type: ImageBlock
