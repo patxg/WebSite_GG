@@ -54,7 +54,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: List of features here
+      text: Games
       color: text-light
       styles:
         self:
