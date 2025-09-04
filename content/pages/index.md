@@ -40,7 +40,7 @@ sections:
       type: ImageBlock
     badge:
       label: Est 2024
-      color: text-primary
+      color: text-neutral
       type: Badge
     elementId: ''
     colors: bg-dark-fg-light
