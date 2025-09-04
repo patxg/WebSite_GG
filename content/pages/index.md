@@ -64,7 +64,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Mason
+        title: Consulting
         subtitle: ''
         text: |
           Oversees game design, monetization, and business strategy.
