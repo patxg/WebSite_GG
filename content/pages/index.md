@@ -67,8 +67,7 @@ sections:
         title: Mason
         subtitle: CEO
         text: |
-          Leads vision, narrative, and player experience. Believes games should
-          be both playful and pointed, making people smile while they think.
+          Oversees game design, monetization, and business strategy.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
