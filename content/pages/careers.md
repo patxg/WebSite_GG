@@ -18,7 +18,7 @@ sections:
       other along the way. Ready to join us? Let's play.
     actions:
       - label: See open positions
-        url: /
+        url: 'https://forms.gle/vqhw5Swgcu1B33Qw6'
         icon: arrowRight
         iconPosition: right
         style: primary
