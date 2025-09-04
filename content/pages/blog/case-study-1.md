@@ -70,7 +70,7 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-isFeatured: true
+isFeatured: false
 colors: bg-dark-fg-light
 styles:
   self:
