@@ -29,7 +29,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: ''
+        title: '1.'
         subtitle: Mechanics Dictate Experience
         text: |+
           *   We prioritize tight, responsive gameplay over flashy gimmicks.
