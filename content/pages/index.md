@@ -68,7 +68,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/Community Icon.png
+          url: /images/Library Hero.png
           altText: Placeholder Image
           styles:
             self:
