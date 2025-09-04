@@ -117,7 +117,7 @@
         {
             "type": "Link",
             "label": "About Us",
-            "altText": "",
+            "altText": "About Us",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
