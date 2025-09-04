@@ -38,7 +38,7 @@ topSections:
       url: 'https://youtu.be/gzdessP4J60'
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:
