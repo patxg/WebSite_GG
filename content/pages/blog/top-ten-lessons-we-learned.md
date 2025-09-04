@@ -73,4 +73,4 @@ bottomSections:
       subtitle:
         textAlign: left
 ---
-Snowball's Chance In Hell
+Snowball’s Chance in Hell is a turn-based tactical tower defense where frosty forts and holiday magic square off against literal demons. By day, you’re stacking snow and plotting defenses like the over-caffeinated commander you are. Why Bother?Because every night gets worse. The waves get bigger, the demons get meaner, and your “brilliant” plan might suddenly look like a toddler built it. Outwit, outlast, and maybe prove that you do have a snowball’s chance in hell.
