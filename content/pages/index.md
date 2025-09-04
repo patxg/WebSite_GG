@@ -66,7 +66,7 @@ sections:
         tagline: This is the tagline
         subtitle: December 2025
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Fall 2025
         image:
           url: /images/snowballs_chance.png
           altText: Placeholder Image
