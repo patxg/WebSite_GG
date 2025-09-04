@@ -147,7 +147,7 @@ sections:
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
-      text: Additional Services we offer
+      text: What we do
       color: text-dark
       styles:
         self:
