@@ -8,7 +8,7 @@ topSections:
       text: Games
       color: text-dark
       type: TitleBlock
-    subtitle: Currently in Wishlist
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
