@@ -100,17 +100,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Data Science and Research",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "primary",
-                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
