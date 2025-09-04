@@ -29,7 +29,7 @@
                 {
                     "type": "Link",
                     "label": "Snowball's Chance in Hell",
-                    "altText": "",
+                    "altText": "Snowball's Chance in Hell",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
