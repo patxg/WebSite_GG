@@ -292,7 +292,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
