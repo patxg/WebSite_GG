@@ -40,7 +40,7 @@
                 {
                     "type": "Link",
                     "label": "Made of Clay",
-                    "altText": "",
+                    "altText": "Made of Clay",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
