@@ -158,7 +158,7 @@ sections:
         title: Consulting
         subtitle: ''
         text: |
-          Oversees game design, monetization, and business strategy.
+          ...
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
