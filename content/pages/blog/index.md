@@ -45,7 +45,7 @@ topSections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: ''
+      url: 'https://youtu.be/gzdessP4J60'
       autoplay: true
       loop: true
       muted: true
