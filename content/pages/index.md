@@ -205,7 +205,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        tagline: Code & Ops Commander
+        tagline: ''
       - type: FeaturedItem
         title: Indie Solutions
         subtitle: ''
