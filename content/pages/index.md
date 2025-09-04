@@ -185,7 +185,7 @@ sections:
       - title: Game Design
         subtitle: ''
         text: |
-          Manages studio operations, technical direction, and optimization.
+          ...
         image:
           url: /images/icon2.svg
           altText: Featured icon two
