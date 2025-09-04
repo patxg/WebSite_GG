@@ -66,10 +66,13 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Mason Quilty is the CEO and Game Design Lead of Guilty Games, driving
+          strategic vision for the company. Before stepping into the world of
+          game development, Mason honed his storytelling skills as a theater
+          director and actor. His experience in stage performance and directing
+          has given him a keen understanding of pacing, character development,
+          and audience engagement- elements that he now applies to game design.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
