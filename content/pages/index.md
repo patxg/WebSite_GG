@@ -92,7 +92,7 @@ sections:
               borderRadius: x-large
         tagline: Game Archon & Deal Maker
       - title: Pat
-        subtitle: CTO
+        subtitle: ''
         text: |
           Manages studio operations, technical direction, and optimization.
         image:
