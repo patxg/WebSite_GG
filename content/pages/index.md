@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: Game Archon & Deal Maker
-      - title: Pat
+      - title: Voice Overs
         subtitle: ''
         text: |
           Manages studio operations, technical direction, and optimization.
