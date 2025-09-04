@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: Discord ->
         altText: ''
         url: 'https://discord.gg/hmjrNCJyTa'
         showIcon: false
