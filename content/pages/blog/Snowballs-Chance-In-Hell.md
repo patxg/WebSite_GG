@@ -1,6 +1,6 @@
 ---
 title: Snowball's Chance In Hell
-slug: case-study-1
+slug: Snowballs-Chance-In-Hell
 date: '2025-12-01'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
