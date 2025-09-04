@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Made of Clay
 slug: case-study-2
 date: '2026-05-01'
 excerpt: >-
