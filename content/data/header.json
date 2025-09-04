@@ -81,7 +81,7 @@
                 {
                     "type": "Link",
                     "label": "Game Design",
-                    "altText": "",
+                    "altText": "Game Design",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
