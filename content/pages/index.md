@@ -150,7 +150,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Guilty Games
       color: text-primary
       styles:
         self:
