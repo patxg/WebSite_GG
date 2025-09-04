@@ -33,15 +33,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - label: Discord
-        altText: ''
-        url: 'https://discord.gg/hmjrNCJyTa'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Logo_GG.png
       altText: Unblock your team boost your time to production preview
