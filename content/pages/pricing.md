@@ -31,10 +31,15 @@ sections:
       - type: FeaturedItem
         title: 'Gameplay First: Mechanics Dictate Experience'
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   We prioritize tight, responsive gameplay over flashy gimmicks.
+
+          *   Every mechanic serves a purpose. No wasted systems.
+
+          *   Player agency, mastery, and discovery are key.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
