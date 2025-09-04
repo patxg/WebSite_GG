@@ -87,7 +87,7 @@ sections:
         type: FeaturedItem
       - title: Made of Clay
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: July 2026
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
