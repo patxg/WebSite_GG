@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Guilty Games
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Vision & Mission
     text: >
