@@ -1,7 +1,7 @@
 ---
 title: Snowball's Chance In Hell
 slug: case-study-1
-date: '2023-04-05'
+date: '2024-02-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
