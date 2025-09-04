@@ -208,7 +208,7 @@ sections:
         type: FeaturedItem
         tagline: Code & Ops Commander
       - type: FeaturedItem
-        title: Simulations
+        title: Indie Solutions
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
