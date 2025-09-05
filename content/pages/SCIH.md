@@ -92,7 +92,7 @@ sections:
           September 2025
         image:
           type: ImageBlock
-          url: /images/moc.png
+          url: /images/Community Icon.png
           altText: Placeholder image
           styles:
             self:
