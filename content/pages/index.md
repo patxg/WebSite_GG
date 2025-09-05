@@ -34,7 +34,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/Logo_GG.png
+      url: /images/image.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
