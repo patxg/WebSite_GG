@@ -87,7 +87,7 @@ sections:
       - type: FeaturedItem
         title: Wishlist
         tagline: Steam Store
-        subtitle: July 2026
+        subtitle: Available on Steam
         text: |
           Summer 2026
         image:
