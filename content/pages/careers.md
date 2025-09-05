@@ -76,7 +76,7 @@ sections:
     type: FeaturedPeopleSection
   - title:
       text: Open positions
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
