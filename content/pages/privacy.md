@@ -8,62 +8,59 @@ sections:
       text: Privacy
       color: text-dark
     subtitle: 'How Guilty Games collects, uses, and protects your information.'
-    text: |+
-      **About Us & This Policy**
-      <sub>Overview</sub>
+    text: |
+      **About Us & This Policy** <sub>Overview</sub>
 
       This Privacy Policy explains when we collect information about you,
       what we collect, why we collect it, how we use it, who we share it
       with, and your choices. Your use of our websites, games, and services
       (“Services”) means you agree to these practices.
 
-          Scope
+      **Scope**
 
-      **Children’s Privacy**
-      <sub>Under 13</sub>
+      <sub>Who we Are</sub>
+
+      GuiltyGames LLC (“we,” “our,” “us”) controls the information collected
+      when you interact with us through our Services, including websites,
+      devlogs, mailing lists, and games published under the Guilty Games
+      label.
+
+      **Children’s Privacy** <sub>Under 13</sub>
 
       Our Services are not directed at children under 13. We do not
       knowingly collect information from children. If we learn that we have
       collected personal information from a child under 13 without parental
       consent, we will delete it promptly.
 
-      **Security & Retention**
-      <sub>How We Protect Data</sub>
+      **Security & Retention** <sub>How We Protect Data</sub>
 
       We use industry-standard security measures to help protect your
       information from unauthorized access, loss, or misuse. However, no
       system is 100% secure. We retain information only as long as necessary
       to operate our Services and comply with legal obligations.
 
-
-      **Your Choices & Rights**
-      <sub>Control</sub>
+      **Your Choices & Rights** <sub>Control</sub>
 
       You may request access, correction, or deletion of your information by
       contacting us. You may also opt out of marketing communications at any
       time by using the unsubscribe link or contacting us directly.
 
-      **International Users**
-      <sub>Data Transfers</sub>
+      **International Users** <sub>Data Transfers</sub>
 
       If you access our Services from outside the United States, your
       information may be transferred to and processed in the U.S. By using
       our Services, you consent to this transfer.
 
-      **Changes to This Policy**
-      <sub>Updates</sub>
+      **Changes to This Policy** <sub>Updates</sub>
 
       We may update this Privacy Policy from time to time. If we make
       significant changes, we will post a notice on our website. Continued
       use of our Services after updates means you accept the revised Policy.
 
-      **Contact Us**
-      <sub>Privacy Questions</sub>
+      **Contact Us** <sub>Privacy Questions</sub>
 
       If you have questions about this Privacy Policy or your information,
-      contact us at: **Email:** guiltygamestudio\@gmail.com
-
-
+      contact us at: **Email:** <guiltygamestudio@gmail.com>
     actions: []
     media:
       type: ImageBlock
