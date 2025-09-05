@@ -101,7 +101,9 @@ sections:
       - type: FeaturedItem
         title: Wishlist
         tagline: Steam Store
-        subtitle: Available on Steam
+        subtitle: >-
+          The game will be available to wishlist on Steam. Add it now to be
+          notified when we drop new updates and builds.
         text: |
           September 2025
         image:
