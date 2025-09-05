@@ -35,7 +35,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Logo_GG.png
+      url: /images/Community Icon.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
