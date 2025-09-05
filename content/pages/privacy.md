@@ -92,11 +92,11 @@ sections:
 
       **Contact Us** Privacy Questions
 
+      If you have questions about this Privacy Policy or your information,
 
-      <sub>If you have questions about this Privacy Policy or your information,
+      contact us at:  
 
-      contact us at: </sub>**<sub>Email:</sub>**<sub>
-      </sub>[<sub>guiltygamestudio@gmail.com</sub>](mailto:guiltygamestudio@gmail.com)
+      **Email:** guiltygamestudio@gmail.com
     actions: []
     media:
       type: ImageBlock
