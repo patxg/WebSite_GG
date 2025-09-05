@@ -119,7 +119,7 @@ sections:
             flexDirection: col
       - title: Made of Clay
         tagline: ''
-        subtitle: Roguelite
+        subtitle: Survival
         text: |
           Currently in design
 
