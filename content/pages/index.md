@@ -221,7 +221,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Indie Solutions
-        tagline: This is the tagline
+        tagline: Helping indies thrive
         subtitle: This is the item subtitle
         text: >
           We know the challenges small teams face because we live them too. Our
