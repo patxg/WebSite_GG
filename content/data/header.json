@@ -32,36 +32,6 @@
             "labelStyle": "secondary"
         },
         {
-            "type": "SubNav",
-            "label": "Services",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Consulting",
-                    "altText": "Consulting",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Indie Solutions",
-                    "altText": "Indie Solutions",
-                    "url": "/indie_Solutions",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
-        },
-        {
             "type": "Link",
             "label": "About Us",
             "altText": "About Us",

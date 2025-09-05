@@ -23,7 +23,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -49,7 +49,7 @@ sections:
       url: /images/abstract-background.svg
   - title:
       text: Meet the team
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -62,7 +62,7 @@ sections:
       - content/data/person4.json
       - content/data/person5.json
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -76,7 +76,7 @@ sections:
     type: FeaturedPeopleSection
   - title:
       text: Open positions
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -92,7 +92,7 @@ sections:
         type: Button
         altText: Form Link
     variant: toggle-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
