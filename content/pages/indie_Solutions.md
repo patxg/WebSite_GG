@@ -109,7 +109,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Wishlist
+        title: Dev
         tagline: Steam Launch
         subtitle: ....
         text: |
