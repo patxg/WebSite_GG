@@ -219,6 +219,32 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - type: FeaturedItem
+        title: Games
+        tagline: 'Original worlds, unapologetic ideas'
+        subtitle: ''
+        text: >
+          We create games that challenge, entertain, and make you think. From
+          surreal shooters to meditative explorations, Guilty Games delivers
+          unique experiences built with passion and purpose.
+        image:
+          type: ImageBlock
+          url: /images/Consulting (2).png
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     actions: []
     variant: three-col-grid
     colors: bg-dark-fg-light
