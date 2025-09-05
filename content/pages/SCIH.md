@@ -92,7 +92,7 @@ sections:
           September 2025
         image:
           type: ImageBlock
-          url: /images/Community Icon.png
+          url: /images/Library Hero.png
           altText: Placeholder image
           styles:
             self:
