@@ -41,7 +41,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Project X",
+                    "label": "Project Z",
                     "altText": "Project z",
                     "url": "/",
                     "showIcon": false,
