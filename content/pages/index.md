@@ -159,7 +159,7 @@ sections:
         text: |
           ...
         image:
-          url: /images/icon2.svg
+          url: /images/Consulting (2).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
