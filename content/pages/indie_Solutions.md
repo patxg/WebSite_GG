@@ -53,7 +53,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Services
+      text: Indie Solution Services
       color: text-light
       styles:
         self:
