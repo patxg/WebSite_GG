@@ -92,7 +92,7 @@ sections:
           September 2025
         image:
           type: ImageBlock
-          url: /images/ProjectZ.png
+          url: /images/Consulting (2).png
           altText: Placeholder image
           styles:
             self:
