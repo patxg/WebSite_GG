@@ -85,7 +85,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Pre-Alpha
+        title: Marketing
         tagline: Steam Store
         subtitle: Available on Steam
         text: |
