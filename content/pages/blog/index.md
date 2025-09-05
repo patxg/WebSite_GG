@@ -16,7 +16,7 @@ topSections:
     showDate: true
     showAuthor: true
     variant: big-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
