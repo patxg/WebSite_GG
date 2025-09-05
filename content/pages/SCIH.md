@@ -110,7 +110,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Release
-        tagline: This is the tagline
+        tagline: Steam Launch
         subtitle: ....
         text: |
           TBD
