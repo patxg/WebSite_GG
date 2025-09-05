@@ -177,7 +177,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About This Game
+      text: ''
       color: text-light
       styles:
         self:
