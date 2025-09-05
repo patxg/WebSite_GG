@@ -114,7 +114,7 @@ sections:
         text: |
           Summer 2028
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/ProjectZ.png
           altText: Placeholder image
           styles:
             self:
