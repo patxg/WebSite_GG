@@ -148,7 +148,7 @@ sections:
     title:
       type: TitleBlock
       text: What we do
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
