@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Pre-Alpha
-        tagline: Pre-Alpha
+        tagline: August 2025
         subtitle: Playtesting available
         text: |
           Fall 2025
