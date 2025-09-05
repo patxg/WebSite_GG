@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Snowball's Chance in Hell
       color: text-light
-    subtitle: Vision & Mission
+    subtitle: Tower Defense Game
     text: >
       At Guilty Games, we seek to create novel experiences that captivate
       players and leave an impact on the world. As a teaching studio, our
