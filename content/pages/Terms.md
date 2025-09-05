@@ -65,11 +65,11 @@ sections:
       DMCA Notices
 
 
-      If you believe your copyrighted work has been used on our Sites
+      <sub>If you believe your copyrighted work has been used on our Sites
 
       without permission, send a proper DMCA notice to our designated
 
-      agent: guiltygamestudio\@gmail.com
+      agent: <guiltygamestudio@gmail.com> </sub>
 
 
       **Conduct**
