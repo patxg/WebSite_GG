@@ -111,7 +111,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Project Z
-        tagline: This is the tagline
+        tagline: ''
         subtitle: July 2028
         text: |
           Summer 2028
