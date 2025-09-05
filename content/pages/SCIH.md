@@ -111,7 +111,7 @@ sections:
       - type: FeaturedItem
         title: Release
         tagline: This is the tagline
-        subtitle: July 2028
+        subtitle: ....
         text: |
           Summer 2028
         image:
