@@ -194,32 +194,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Consulting
-        tagline: Game dev guidance without the guesswork
-        subtitle: ''
-        text: >
-          We provide design, development, and production consulting for teams of
-          all sizes. Whether you’re building your first prototype or scaling for
-          release, we’ll help you turn creative visions into reality.
-        image:
-          type: ImageBlock
-          url: /images/Consulting.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: Indie Solutions
         tagline: Helping indies thrive
         subtitle: ''
