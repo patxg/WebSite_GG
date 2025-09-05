@@ -93,8 +93,7 @@ sections:
       **Contact Us** Privacy Questions
 
 
-
-      \*If you have questions about this Privacy Policy or your information,
+      If you have questions about this Privacy Policy or your information,
 
       contact us at **Email:**
       \*[*guiltygamestudio@gmail.com*](mailto:guiltygamestudio@gmail.com)
