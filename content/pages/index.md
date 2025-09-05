@@ -289,7 +289,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ...
     images:
       - altText: Empathy logo
         type: ImageBlock
