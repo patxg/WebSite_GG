@@ -71,17 +71,6 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Game Design",
-                    "altText": "Game Design",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "label": "Indie Solutions",
                     "altText": "Indie Solutions",
                     "url": "/",
