@@ -49,7 +49,7 @@ sections:
       url: /images/abstract-background.svg
   - title:
       text: Meet the team
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
