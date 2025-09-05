@@ -75,7 +75,9 @@ sections:
       - type: FeaturedItem
         title: Pre-Alpha
         tagline: August 2025
-        subtitle: Playtesting available
+        subtitle: >-
+          Closed playtesting opens for early community feedback. Help us shape
+          the future of Snowball’s Chance in Hell.
         text: |
           Fall 2025
         image:
