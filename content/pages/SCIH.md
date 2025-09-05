@@ -85,7 +85,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Made of Clay
+        title: Wishlist
         tagline: Steam Store
         subtitle: July 2026
         text: |
