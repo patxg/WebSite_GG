@@ -30,17 +30,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "type": "Link",
-            "label": "About Us",
-            "altText": "About Us",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
