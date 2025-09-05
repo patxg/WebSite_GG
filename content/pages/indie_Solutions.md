@@ -53,7 +53,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Quick Glance Roadmap
+      text: Services
       color: text-light
       styles:
         self:
