@@ -177,17 +177,13 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About This Game
+      text: ''
       color: text-light
       styles:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      Build whimsical defenses, wield powerful relics, and command magical snow
-      guardians to survive the infernal chaos. Can you hold the line through
-      endless nights and defeat the Frostfallen King?
-
+    text: ''
     actions: []
     media:
       type: VideoBlock
