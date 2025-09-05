@@ -156,7 +156,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Consulting
+        title: ....
         tagline: Game Archon & Deal Maker
         subtitle: ''
         text: |
