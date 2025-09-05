@@ -197,8 +197,10 @@ sections:
         title: Consulting
         tagline: Game dev guidance without the guesswork
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          We provide design, development, and production consulting for teams of
+          all sizes. Whether you’re building your first prototype or scaling for
+          release, we’ll help you turn creative visions into reality.
         image:
           type: ImageBlock
           url: /images/Consulting.png
