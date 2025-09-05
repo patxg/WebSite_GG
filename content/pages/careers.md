@@ -60,6 +60,7 @@ sections:
       - content/data/person2.json
       - content/data/person4.json
       - content/data/person3.json
+      - content/data/Mac.json
       - content/data/person5.json
     variant: three-col-grid
     colors: bg-dark-fg-light
