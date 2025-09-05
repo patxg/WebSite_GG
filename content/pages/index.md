@@ -91,7 +91,7 @@ sections:
         text: |
           Summer 2026
         image:
-          url: /images/moc.png
+          url: /images/MoC.png
           altText: Placeholder image
           styles:
             self:
