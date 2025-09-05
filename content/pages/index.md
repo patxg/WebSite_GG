@@ -170,7 +170,7 @@ sections:
       - type: FeaturedItem
         title: Games
         tagline: 'Original worlds, unapologetic ideas'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We create games that challenge, entertain, and make you think. From
           surreal shooters to meditative explorations, Guilty Games delivers
