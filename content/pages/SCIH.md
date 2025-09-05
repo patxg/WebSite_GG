@@ -89,7 +89,7 @@ sections:
         tagline: Steam Store
         subtitle: Available on Steam
         text: |
-          Summer 2026
+          September 2025
         image:
           type: ImageBlock
           url: /images/moc.png
