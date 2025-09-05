@@ -183,7 +183,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Game Design
+        title: ...
         tagline: ''
         subtitle: ''
         text: |
