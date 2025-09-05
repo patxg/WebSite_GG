@@ -207,7 +207,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Indie Solutions
+        title: ...
         subtitle: ''
         text: |
           ...
