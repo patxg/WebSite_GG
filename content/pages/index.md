@@ -130,7 +130,7 @@ sections:
 
           **Coming to STEAM:** Summer 2028
         image:
-          url: /images/MoC.png
+          url: /images/Project Z.png
           altText: Placeholder image
           styles:
             self:
