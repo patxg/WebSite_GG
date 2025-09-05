@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Guilty Games
+      text: Snowball's Chance in Hell
       color: text-light
     subtitle: Vision & Mission
     text: >
