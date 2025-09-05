@@ -6,7 +6,7 @@
     },
     "text": "Guilty Games, LLC.\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Games",
         "links": [
             {
                 "label": "Features",
@@ -35,14 +35,6 @@
                 "label": "Careers",
                 "altText": "careers page",
                 "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
