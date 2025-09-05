@@ -182,7 +182,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: Game Archon & Deal Maker
-      - title: Game Design
+      - title: Game Consulting
         subtitle: ''
         text: |
           ...
