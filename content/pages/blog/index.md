@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Games
+      text: Games Blog
       color: text-dark
       type: TitleBlock
     subtitle: ''
