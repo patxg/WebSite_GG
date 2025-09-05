@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Snowball's Chance In Hell
-        tagline: This is the tagline
+        tagline: Pre-Alpha
         subtitle: Playtesting available
         text: |
           Fall 2025
