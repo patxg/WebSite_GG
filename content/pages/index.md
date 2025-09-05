@@ -260,24 +260,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: ...
-    images:
-      - altText: Empathy logo
-        type: ImageBlock
-      - url: /images/knight lvl2 F.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-dark-fg-light
     styles:
