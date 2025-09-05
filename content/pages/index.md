@@ -120,14 +120,10 @@ sections:
       - title: Made of Clay
         tagline: ''
         subtitle: Roguelite
-        text: >
-          A dreidle-charged roguelite where you spin a mystical dreidel through
-          shifting realms inspired by ancient Jewish mysticism. Each run is a
-          battle to bring light into the world, with evolving powers,
-          unpredictable challenges, and whimsical, night-themed encounters.
+        text: |
+          Currently in design
 
-
-          **Coming to STEAM:** Summer 2026
+          **Coming to STEAM:** Summer 2028
         image:
           url: /images/MoC.png
           altText: Placeholder image
