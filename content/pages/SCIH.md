@@ -337,7 +337,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: System Requirements
       color: text-dark
       styles:
         self:
