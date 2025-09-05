@@ -244,24 +244,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: ...
-    images:
-      - type: ImageBlock
-        altText: Empathy logo
-      - type: ImageBlock
-        url: /images/knight lvl2 F.png
-        altText: Contentful logo
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-    motion: move-to-left
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     colors: bg-dark-fg-light
