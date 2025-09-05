@@ -56,7 +56,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Dev
+      text: Quick Glance Roadmap
       color: text-light
       styles:
         self:
