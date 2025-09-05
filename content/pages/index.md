@@ -76,7 +76,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/MoC.png
+          url: /images/SCIH_Web.png
           altText: Placeholder image
           styles:
             self:
