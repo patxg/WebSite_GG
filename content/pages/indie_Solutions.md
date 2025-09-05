@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Indie Solutions
       color: text-light
-    subtitle: Crafting Game / Survival Game
+    subtitle: Making Dreams Come True
     text: |+
       ...
 
