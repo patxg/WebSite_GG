@@ -223,8 +223,11 @@ sections:
         title: Indie Solutions
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          We know the challenges small teams face because we live them too. Our
+          indie support services cover publishing strategies, pipeline
+          optimization, and custom tools to give you more time to focus on
+          making great games.
         image:
           type: ImageBlock
           url: /images/Indie Solutions.png
