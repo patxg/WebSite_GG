@@ -224,9 +224,9 @@ sections:
         tagline: 'Original worlds, unapologetic ideas'
         subtitle: ''
         text: >
-          We create games that challenge, entertain, and make you think. From
-          surreal shooters to meditative explorations, Guilty Games delivers
-          unique experiences built with passion and purpose.
+          We provide design, development, and production consulting for teams of
+          all sizes. Whether you’re building your first prototype or scaling for
+          release, we’ll help you turn creative visions into reality.
         image:
           type: ImageBlock
           url: /images/Consulting.png
