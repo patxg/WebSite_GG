@@ -64,7 +64,9 @@ sections:
     items:
       - title: Snowball's Chance In Hell
         tagline: This is the tagline
-        subtitle: December 2025
+        subtitle: >-
+          A tactical tower defense where snow forts, magical guardians, and
+          cursed relics are your only hope against endless waves of hellspawn.
         text: |
           Fall 2025
         image:
