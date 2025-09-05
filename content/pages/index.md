@@ -97,8 +97,7 @@ sections:
           unpredictable challenges, and whimsical, night-themed encounters.
 
 
-
-          **Release:** Summer 2026
+          **Coming to STEAM:** Summer 2026
         image:
           url: /images/MoC.png
           altText: Placeholder image
