@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Mason",
-    "role": "Co-founder",
+    "role": "Developer",
     "bio": "",
     "image": {
         "type": "ImageBlock",
