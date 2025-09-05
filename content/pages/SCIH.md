@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: SCIH
 sections:
   - type: GenericSection
     title:
