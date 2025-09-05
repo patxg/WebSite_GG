@@ -63,7 +63,7 @@ sections:
       - type: FeaturedItem
         title: Snowball's Chance In Hell
         tagline: This is the tagline
-        subtitle: December 2025
+        subtitle: Playtesting available
         text: |
           Fall 2025
         image:
