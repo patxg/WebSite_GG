@@ -151,7 +151,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: What we do
+      text: Features
       color: text-light
       styles:
         self:
