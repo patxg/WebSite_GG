@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Our Vision & Mission
+    subtitle: Remotely
     text: >
       At Guilty Games, we seek to create novel experiences that captivate
       players and leave an impact on the world. As a teaching studio, our
