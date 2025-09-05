@@ -196,7 +196,7 @@ sections:
       - type: FeaturedItem
         title: Consulting
         tagline: Game dev guidance without the guesswork
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We provide design, development, and production consulting for teams of
           all sizes. Whether you’re building your first prototype or scaling for
