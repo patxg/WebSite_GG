@@ -37,7 +37,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Est 2025
+      label: Est 2024
       color: text-neutral
     elementId: ''
     colors: bg-dark-fg-light
