@@ -193,33 +193,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-      - type: FeaturedItem
-        title: Indie Solutions
-        tagline: Helping indies thrive
-        subtitle: ''
-        text: >
-          We know the challenges small teams face because we live them too. Our
-          indie support services cover publishing strategies, pipeline
-          optimization, and custom tools to give you more time to focus on
-          making great games.
-        image:
-          type: ImageBlock
-          url: /images/Indie Solutions.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
     actions: []
     variant: three-col-grid
     colors: bg-dark-fg-light
