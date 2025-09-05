@@ -222,7 +222,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Game Consulting
-        tagline: 'Original worlds, unapologetic ideas'
+        tagline: Game dev guidance without the guesswork
         subtitle: ''
         text: >
           We provide design, development, and production consulting for teams of
