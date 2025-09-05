@@ -91,14 +91,14 @@ sections:
         title: Snowball's Chance in Hell
         tagline: ''
         subtitle: Tower Defense / Strategy
-        text: >
-          A dreidle-charged roguelite where you spin a mystical dreidel through
-          shifting realms inspired by ancient Jewish mysticism. Each run is a
-          battle to bring light into the world, with evolving powers,
-          unpredictable challenges, and whimsical, night-themed encounters.
+        text: >+
+          A tactical tower defense where snow forts, magical guardians, and
+          cursed relics are your only hope against endless waves of hellspawn.
 
 
-          **Coming to STEAM:** Summer 2026
+
+          **Coming to STEAM:** Fall 2025
+
         image:
           type: ImageBlock
           url: /images/MoC.png
