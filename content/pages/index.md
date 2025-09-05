@@ -89,7 +89,7 @@ sections:
         type: FeaturedItem
       - title: Made of Clay
         tagline: ''
-        subtitle: July 2026
+        subtitle: Roguelite
         text: >
           A dreidle-charged roguelite where you spin a mystical dreidel through
           shifting realms inspired by ancient Jewish mysticism. Each run is a
