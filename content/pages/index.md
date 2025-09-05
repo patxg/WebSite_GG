@@ -62,20 +62,26 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Snowball's Chance In Hell
-        tagline: Tower Defense / Strategy
-        subtitle: >-
+      - type: FeaturedItem
+        title: Snowball's Chance in Hell
+        tagline: ''
+        subtitle: Tower Defense / Strategy
+        text: >+
           A tactical tower defense where snow forts, magical guardians, and
           cursed relics are your only hope against endless waves of hellspawn.
-        text: |
-          Fall 2025
+
+
+
+          **Coming to STEAM:** Fall 2025
+
         image:
+          type: ImageBlock
           url: /images/SCIH_Web.png
-          altText: Placeholder Image
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-          type: ImageBlock
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
@@ -86,19 +92,26 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-        type: FeaturedItem
-      - title: Made of Clay
+      - type: FeaturedItem
+        title: Made of Clay
         tagline: ''
-        subtitle: July 2026
-        text: |
-          Summer 2026
+        subtitle: Roguelite
+        text: >
+          A dreidle-charged roguelite where you spin a mystical dreidel through
+          shifting realms inspired by ancient Jewish mysticism. Each run is a
+          battle to bring light into the world, with evolving powers,
+          unpredictable challenges, and whimsical, night-themed encounters.
+
+
+          **Coming to STEAM:** Summer 2026
         image:
+          type: ImageBlock
           url: /images/MoC.png
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-          type: ImageBlock
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
@@ -109,12 +122,13 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-        type: FeaturedItem
       - title: Project Z
         tagline: ''
-        subtitle: July 2028
+        subtitle: Survival
         text: |
-          Summer 2028
+          Currently in design
+
+          **Coming to STEAM:** Summer 2028
         image:
           url: /images/Project Z.png
           altText: Placeholder image
