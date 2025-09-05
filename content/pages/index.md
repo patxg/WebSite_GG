@@ -169,7 +169,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Games
-        tagline: This is the tagline
+        tagline: 'Original worlds, unapologetic ideas'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
