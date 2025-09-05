@@ -125,7 +125,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: TBD
+        title: Coming Soon
         tagline: Steam Launch
         subtitle: >-
           We’re still finalizing the launch date — but our goal is to bring
