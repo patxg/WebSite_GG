@@ -35,7 +35,7 @@ sections:
         elementId: ''
     media:
       url: /images/image.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Mason & Pat at Awesome Con in DC
       elementId: ''
       type: ImageBlock
     badge:
