@@ -117,7 +117,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-      - title: Made of Clay
+      - title: Project Z
         tagline: ''
         subtitle: Survival
         text: |
