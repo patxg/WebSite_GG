@@ -348,9 +348,8 @@ sections:
         title: Windows
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Minimum:
         features:
           - Feature one
           - Feature two
