@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Privacy
+      text: Terms
       color: text-dark
     subtitle: 'How Guilty Games collects, uses, and protects your information.'
     text: >
