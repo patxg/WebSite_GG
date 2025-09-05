@@ -175,7 +175,9 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: >-
+      A tactical tower defense where snow forts, magical guardians, and cursed
+      relics are your only hope against endless waves of hellspawn.
     text: >+
       Build whimsical defenses, wield powerful relics, and command magical snow
       guardians to survive the infernal chaos. Can you hold the line through
