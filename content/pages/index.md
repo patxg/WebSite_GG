@@ -222,7 +222,7 @@ sections:
       - type: FeaturedItem
         title: Indie Solutions
         tagline: Helping indies thrive
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We know the challenges small teams face because we live them too. Our
           indie support services cover publishing strategies, pipeline
