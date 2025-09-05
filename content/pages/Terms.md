@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Terms of Service
       color: text-dark
-    subtitle: 'How Guilty Games collects, uses, and protects your information.'
+    subtitle: The rules of the road for using Guilty Games websites & services.
     text: >
       **About Us & This Policy** Overview
 
