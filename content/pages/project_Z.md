@@ -116,7 +116,7 @@ sections:
           TBD
         image:
           type: ImageBlock
-          url: /images/snowballBootyTransparent.gif
+          url: /images/ProjectZ.png
           altText: Placeholder image
           styles:
             self:
