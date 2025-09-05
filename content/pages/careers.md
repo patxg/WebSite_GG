@@ -4,12 +4,12 @@ slug: careers
 sections:
   - title:
       text: A team that works closely together
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Our Vision & Mission
+    subtitle: Remotely
     text: >
       At Guilty Games, we seek to create novel experiences that captivate
       players and leave an impact on the world. As a teaching studio, our
@@ -23,7 +23,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -39,14 +39,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
   - title:
       text: Meet the team
       color: text-light
