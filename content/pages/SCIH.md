@@ -113,7 +113,7 @@ sections:
         tagline: This is the tagline
         subtitle: ....
         text: |
-          Summer 2028
+          TBD
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
