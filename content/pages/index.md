@@ -147,7 +147,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: What we do
       color: text-primary
       styles:
         self:
