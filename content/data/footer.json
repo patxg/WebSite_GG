@@ -9,7 +9,7 @@
         "title": "Games",
         "links": [
             {
-                "label": "Features",
+                "label": "Services",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,12 +18,15 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "type": "Link",
+                "label": "Snowballs Chance in Hell",
+                "altText": "",
+                "url": "/SCIH",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"

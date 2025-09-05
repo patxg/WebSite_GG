@@ -34,8 +34,8 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/Logo_GG.png
-      altText: Unblock your team boost your time to production preview
+      url: /images/image.jpg
+      altText: Mason & Pat at Awesome Con in DC
       elementId: ''
       type: ImageBlock
     badge:
@@ -54,7 +54,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Games
+      text: Current Game Projects
       color: text-light
       styles:
         self:
@@ -68,7 +68,7 @@ sections:
         text: |
           Fall 2025
         image:
-          url: /images/snowballs_chance.png
+          url: /images/SCIH_Web.png
           altText: Placeholder Image
           styles:
             self:
@@ -91,7 +91,7 @@ sections:
         text: |
           Summer 2026
         image:
-          url: /images/moc.png
+          url: /images/MoC.png
           altText: Placeholder image
           styles:
             self:
@@ -114,7 +114,7 @@ sections:
         text: |
           Summer 2028
         image:
-          url: /images/ProjectZ.png
+          url: /images/Project Z.png
           altText: Placeholder image
           styles:
             self:
@@ -144,55 +144,42 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
       text: What we do
       color: text-light
       styles:
         self:
           textAlign: center
-      type: TitleBlock
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Consulting
-        subtitle: ''
+        title: Games
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
         text: |
-          ...
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
+          Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
+          url: /images/Consulting (2).png
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-        tagline: Game Archon & Deal Maker
-      - title: Game Design
-        subtitle: ''
-        text: |
-          ...
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -201,26 +188,46 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-        tagline: ''
+            flexDirection: col
+      - type: FeaturedItem
+        title: Consulting
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first awesome Netlify site.
+        image:
+          type: ImageBlock
+          url: /images/Consulting.png
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
       - type: FeaturedItem
         title: Indie Solutions
-        subtitle: ''
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
         text: |
-          ...
+          Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
-          altText: Placeholder text
-          elementId: ''
+          url: /images/Indie Solutions.png
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -229,53 +236,17 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: Data Science & Research
-        subtitle: ''
-        text: |
-          ...
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
+            flexDirection: col
     actions: []
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-8
+          - pb-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
@@ -289,93 +260,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: ...
-    images:
-      - altText: Empathy logo
-        type: ImageBlock
-      - url: /images/knight lvl2 F.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - title: Divider
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
-      text: Let us know what you think
-      color: text-light
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-neutral
-      type: Badge
-    colors: bg-dark-fg-light
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
