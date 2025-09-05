@@ -220,7 +220,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Games
+        title: Game Consulting
         tagline: 'Original worlds, unapologetic ideas'
         subtitle: ''
         text: >
