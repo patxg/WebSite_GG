@@ -32,7 +32,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/desktopicon.png
+      url: /images/ProjectZ.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
