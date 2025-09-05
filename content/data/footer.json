@@ -58,12 +58,6 @@
             "url": "https://bsky.app/profile/guiltygames.bsky.social",
             "icon": "instagram",
             "type": "Social"
-        },
-        {
-            "altText": "Contact Form",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
