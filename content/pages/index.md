@@ -154,34 +154,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - type: FeaturedItem
-        title: Games
-        subtitle: ''
-        text: |
-          ...
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-        tagline: ''
       - title: Game Consulting
         subtitle: ''
         text: |
