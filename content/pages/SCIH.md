@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Snowball's Chance In Hell
+        title: Pre-Alpha
         tagline: Pre-Alpha
         subtitle: Playtesting available
         text: |
