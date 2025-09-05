@@ -42,7 +42,7 @@
                 {
                     "type": "Link",
                     "label": "Project X",
-                    "altText": "Project X",
+                    "altText": "Project z",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
