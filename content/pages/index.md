@@ -63,8 +63,10 @@ sections:
     subtitle: ''
     items:
       - title: Snowball's Chance In Hell
-        tagline: This is the tagline
-        subtitle: December 2025
+        tagline: Tower Defense / Strategy
+        subtitle: >-
+          A tactical tower defense where snow forts, magical guardians, and
+          cursed relics are your only hope against endless waves of hellspawn.
         text: |
           Fall 2025
         image:
@@ -86,7 +88,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Made of Clay
-        tagline: This is the tagline
+        tagline: ''
         subtitle: July 2026
         text: |
           Summer 2026
@@ -109,7 +111,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Project Z
-        tagline: This is the tagline
+        tagline: ''
         subtitle: July 2028
         text: |
           Summer 2028
