@@ -32,7 +32,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/IndieSolutions.png
+      url: /images/Logo_GG.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
