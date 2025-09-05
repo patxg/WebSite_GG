@@ -92,7 +92,7 @@ sections:
         type: Button
         altText: Form Link
     variant: toggle-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
