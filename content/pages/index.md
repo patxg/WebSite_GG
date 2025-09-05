@@ -169,10 +169,12 @@ sections:
     items:
       - type: FeaturedItem
         title: Games
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        tagline: 'Original worlds, unapologetic ideas'
+        subtitle: ''
+        text: >
+          We create games that challenge, entertain, and make you think. From
+          surreal shooters to meditative explorations, Guilty Games delivers
+          unique experiences built with passion and purpose.
         image:
           type: ImageBlock
           url: /images/Consulting (2).png
@@ -192,14 +194,17 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Consulting
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        title: Indie Solutions
+        tagline: Indies helping Indies
+        subtitle: ''
+        text: >
+          We know the challenges small teams face because we live them too. Our
+          indie support services cover publishing strategies, pipeline
+          optimization, and custom tools to give you more time to focus on
+          making great games.
         image:
           type: ImageBlock
-          url: /images/Consulting.png
+          url: /images/Indie Solutions.png
           altText: Placeholder image
           styles:
             self:
@@ -216,14 +221,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Indie Solutions
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        title: Game Consulting
+        tagline: Game dev guidance without the guesswork
+        subtitle: ''
+        text: >
+          We provide design, development, and production consulting for teams of
+          all sizes. Whether you’re building your first prototype or scaling for
+          release, we’ll help you turn creative visions into reality.
         image:
           type: ImageBlock
-          url: /images/Indie Solutions.png
+          url: /images/Consulting.png
           altText: Placeholder image
           styles:
             self:
