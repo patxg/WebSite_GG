@@ -108,13 +108,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Project X
+      - title: Project Z
         tagline: This is the tagline
         subtitle: July 2028
         text: |
           Summer 2028
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/ProjectZ.png
           altText: Placeholder image
           styles:
             self:
