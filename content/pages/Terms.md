@@ -128,9 +128,9 @@ sections:
       consequential damages related to your use of our Sites or games.</sub>
 
 
-      \*\*Indemnity
+      **Indemnity**
 
-      \*\* Your Responsibility
+      Your Responsibility
 
 
       <sub>You agree to indemnify and hold harmless GuiltyGames LLC, its team,
@@ -140,9 +140,9 @@ sections:
       Sites, games, or violation of these Terms.</sub>
 
 
-      \*\*Termination
+      **Termination**
 
-      \*\* Ending Access
+      Ending Access
 
 
       <sub>We may suspend or terminate your access at any time, for any reason,
