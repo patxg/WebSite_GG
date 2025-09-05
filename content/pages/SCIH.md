@@ -338,7 +338,7 @@ sections:
     title:
       type: TitleBlock
       text: System Requirements
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
