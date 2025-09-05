@@ -195,7 +195,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Consulting
-        tagline: This is the tagline
+        tagline: Game dev guidance without the guesswork
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
