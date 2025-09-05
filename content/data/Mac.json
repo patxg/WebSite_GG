@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "name": "Pat",
-    "role": "Developer",
+    "name": "Mac",
+    "role": "Data Analysis",
+    "bio": "",
     "image": {
-        "url": "/images/Pat.png",
-        "altText": "Faizah Chan",
+        "type": "ImageBlock",
+        "url": "/images/Mac.png",
+        "altText": "Asher Schmitt",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -12,11 +14,9 @@
                     "mb-8"
                 ]
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "colors": "bg-dark-fg-light",
-    "elementId": null,
     "styles": {
         "self": {
             "padding": [
@@ -32,6 +32,5 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    },
-    "bio": ""
+    }
 }

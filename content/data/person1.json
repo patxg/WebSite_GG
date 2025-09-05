@@ -1,7 +1,7 @@
 {
     "name": "Guilty Games, LLC.",
     "role": "",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "styles": {
         "self": {
             "padding": [
@@ -19,10 +19,10 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
+    "bio": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/hero2.svg",
+        "url": "/images/Logo_GG.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {

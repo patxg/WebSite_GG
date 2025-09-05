@@ -1,11 +1,11 @@
 {
     "type": "Person",
     "name": "Mason",
-    "role": "Co-founder",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "role": "Developer",
+    "bio": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
+        "url": "/images/Mason.png",
         "altText": "First Last",
         "styles": {
             "self": {
@@ -16,7 +16,7 @@
             }
         }
     },
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "styles": {
         "self": {
             "padding": [
