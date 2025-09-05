@@ -56,7 +56,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Games
+      text: Dev
       color: text-light
       styles:
         self:
