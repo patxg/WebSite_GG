@@ -155,7 +155,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Consulting
+        title: Games
         subtitle: ''
         text: |
           ...
