@@ -184,30 +184,6 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ...
-        tagline: ''
-        subtitle: ''
-        text: |
-          ...
-        image:
-          type: ImageBlock
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-      - type: FeaturedItem
-        title: ...
         subtitle: ''
         text: |
           ...
