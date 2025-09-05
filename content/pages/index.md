@@ -88,7 +88,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Made of Clay
-        tagline: This is the tagline
+        tagline: ''
         subtitle: July 2026
         text: |
           Summer 2026
