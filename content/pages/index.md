@@ -54,7 +54,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Games
+      text: Current Game Projects
       color: text-light
       styles:
         self:
