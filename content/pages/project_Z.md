@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Pre-Alpha
+        title: Research
         tagline: August 2025
         subtitle: Playtesting available
         text: |
