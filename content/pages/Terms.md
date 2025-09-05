@@ -8,9 +8,11 @@ sections:
       text: Terms of Service
       color: text-dark
     subtitle: The rules of the road for using Guilty Games websites & services.
-    text: >+
+    text: >
       **Ability to Accept Terms**
-       Who can use our Sites
+
+      Who can use our Sites
+
 
       <sub>By using Guilty Games websites or services, you affirm that you are
       at
@@ -21,7 +23,9 @@ sections:
 
 
       **Accounts**
-       Responsibilities
+
+      Responsibilities
+
 
       <sub>Some games or services may require accounts. You are responsible for
 
@@ -31,7 +35,9 @@ sections:
 
 
       **Ownership of Content**
-       Our IP
+
+      Our IP
+
 
       <sub>All text, art, code, logos, and other content on our Sites are owned
 
@@ -43,7 +49,9 @@ sections:
 
 
       **User Generated Content**
-       Player Creations
+
+      Player Creations
+
 
       <sub>You retain ownership of content you create and share, but grant us a
 
@@ -53,16 +61,18 @@ sections:
 
 
       **Copyright Policy**
-       DMCA Notices
 
-      <sub>If you believe your copyrighted work has been used on our Sites
+      DMCA Notices
+
+
+      If you believe your copyrighted work has been used on our Sites
 
       without permission, send a proper DMCA notice to our designated
 
-      agent: </sub>**<sub>guiltygamestudio\@gmail.com</sub>**
+      agent: guiltygamestudio\@gmail.com
 
 
-      **Conduct** 
+      **Conduct**
 
       Play Nice
 
@@ -74,9 +84,7 @@ sections:
       </sub>
 
 
-      **Third-Party Links
-
-      ** Other Websites
+      **Third-Party Links** Other Websites
 
 
       <sub>Our Sites may contain links to third-party websites we don’t control.
@@ -87,7 +95,9 @@ sections:
 
 
       **Contests & Promotions**
-       Rules Apply
+
+      Rules Apply
+
 
       <sub>Giveaways, sweepstakes, and other promotions will have their own
 
@@ -95,7 +105,9 @@ sections:
 
 
       **Disclaimer of Warranties**
-       As-Is
+
+      As-Is
+
 
       <sub>Our Sites and games are provided “as is.” We disclaim all warranties,
 
@@ -105,7 +117,9 @@ sections:
 
 
       **Limitation of Liability**
-       No Big Damages
+
+      No Big Damages
+
 
       <sub>To the fullest extent permitted by law, GuiltyGames LLC and its
 
@@ -114,9 +128,9 @@ sections:
       consequential damages related to your use of our Sites or games.</sub>
 
 
-      **Indemnity
+      \*\*Indemnity
 
-      ** Your Responsibility
+      \*\* Your Responsibility
 
 
       <sub>You agree to indemnify and hold harmless GuiltyGames LLC, its team,
@@ -126,9 +140,9 @@ sections:
       Sites, games, or violation of these Terms.</sub>
 
 
-      **Termination
+      \*\*Termination
 
-      ** Ending Access
+      \*\* Ending Access
 
 
       <sub>We may suspend or terminate your access at any time, for any reason,
@@ -137,14 +151,14 @@ sections:
 
 
       **Governing Law**
-       Jurisdiction
+
+      Jurisdiction
+
 
       <sub>These Terms are governed by the laws of the State of Virginia, United
       States of America. Any disputes will be resolved in the courts of that
 
       state.</sub>
-
-
     actions: []
     media:
       type: ImageBlock
