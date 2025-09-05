@@ -8,9 +8,21 @@ sections:
       text: Snowball's Chance in Hell
       color: text-light
     subtitle: Tower Defense Game
-    text: |+
-      ...
+    text: >
+      Snowball’s Chance in Hell is a tactical tower defense game with a frosty
+      twist. Each night, demonic forces pour from the depths, and only your snow
+      forts, enchanted relics, and magical guardians can hold them back. Across
+      the campaign, you’ll face the Frostfallen King and his armies in a battle
+      of wit, willpower, and snowballs.
 
+
+      Unlike traditional tower defense games, Snowball’s Chance in Hell unfolds
+      on a grid-based battlefield where every placement matters. As towers
+      evolve so do the guardians they spawn, building a varied army throughout a
+      given level, and endless mode offers a pure survival challenge. Inspired
+      by classics like Kingdom Rush and Final Fantasy Tactics, our goal is to
+      blend strategy, charm, and challenge into a fresh indie experience that’s
+      equal parts playful and punishing.
     actions:
       - type: Button
         label: Steam
