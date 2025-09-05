@@ -142,29 +142,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Project Z
-        tagline: ''
-        subtitle: July 2028
-        text: |
-          Summer 2028
-        image:
-          url: /images/Project Z.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
     variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
