@@ -233,7 +233,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Data Science & Research
+        title: ...
         subtitle: ''
         text: |
           ...
