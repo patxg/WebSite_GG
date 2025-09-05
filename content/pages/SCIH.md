@@ -190,7 +190,7 @@ sections:
       title: Title of the video
       url: 'https://youtu.be/gzdessP4J60'
       autoplay: true
-      loop: true
+      loop: false
       muted: false
       controls: false
       aspectRatio: '16:9'
