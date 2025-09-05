@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Project Z
       color: text-light
-    subtitle: Tower Defense Game
+    subtitle: Crafting Game / Survival Game
     text: |+
       ...
 
