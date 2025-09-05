@@ -5,7 +5,7 @@
     "bio": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
+        "url": "/images/Mason.png",
         "altText": "First Last",
         "styles": {
             "self": {
