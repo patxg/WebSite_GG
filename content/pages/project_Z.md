@@ -85,7 +85,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Wishlist
+        title: Pre-Alpha
         tagline: Steam Store
         subtitle: Available on Steam
         text: |
