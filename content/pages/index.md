@@ -90,8 +90,11 @@ sections:
       - title: Made of Clay
         tagline: ''
         subtitle: July 2026
-        text: |
-          Summer 2026
+        text: >
+          A dreidle-charged roguelite where you spin a mystical dreidel through
+          shifting realms inspired by ancient Jewish mysticism. Each run is a
+          battle to bring light into the world, with evolving powers,
+          unpredictable challenges, and whimsical, night-themed encounters.
         image:
           url: /images/MoC.png
           altText: Placeholder image
