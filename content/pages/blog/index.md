@@ -4,29 +4,6 @@ slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
-  - title:
-      text: Games Blog
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    variant: big-list
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - type: GenericSection
     subtitle: ....
     text: |+
