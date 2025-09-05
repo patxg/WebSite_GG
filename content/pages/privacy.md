@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Privacy
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: 'How Guilty Games collects, uses, and protects your information.'
     text: >
       A Netlify website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
