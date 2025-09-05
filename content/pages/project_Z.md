@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Snowball's Chance in Hell
+      text: Project Z
       color: text-light
     subtitle: Tower Defense Game
     text: |+
