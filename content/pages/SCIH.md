@@ -8,9 +8,21 @@ sections:
       text: Snowball's Chance in Hell
       color: text-light
     subtitle: Tower Defense Game
-    text: |+
-      ...
+    text: >
+      Snowball’s Chance in Hell is a tactical tower defense game with a frosty
+      twist. Each night, demonic forces pour from the depths, and only your snow
+      forts, enchanted relics, and magical guardians can hold them back. Across
+      the campaign, you’ll face the Frostfallen King and his armies in a battle
+      of wit, willpower, and snowballs.
 
+
+      Unlike traditional tower defense games, Snowball’s Chance in Hell unfolds
+      on a grid-based battlefield where every placement matters. As towers
+      evolve so do the guardians they spawn, building a varied army throughout a
+      given level, and endless mode offers a pure survival challenge. Inspired
+      by classics like Kingdom Rush and Final Fantasy Tactics, our goal is to
+      blend strategy, charm, and challenge into a fresh indie experience that’s
+      equal parts playful and punishing.
     actions:
       - type: Button
         label: Steam
@@ -63,7 +75,9 @@ sections:
       - type: FeaturedItem
         title: Pre-Alpha
         tagline: August 2025
-        subtitle: Playtesting available
+        subtitle: >-
+          Closed playtesting opens for early community feedback. Help us shape
+          the future of Snowball’s Chance in Hell.
         text: |
           Fall 2025
         image:
@@ -87,7 +101,9 @@ sections:
       - type: FeaturedItem
         title: Wishlist
         tagline: Steam Store
-        subtitle: Available on Steam
+        subtitle: >-
+          The game will be available to wishlist on Steam. Add it now to be
+          notified when we drop new updates and builds.
         text: |
           September 2025
         image:
@@ -109,9 +125,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: TBD
+        title: Coming Soon
         tagline: Steam Launch
-        subtitle: ....
+        subtitle: >-
+          We’re still finalizing the launch date... but our goal is to bring
+          Snowball’s Chance in Hell to Steam once we’ve polished every
+          snowflake. Stay tuned for the big reveal!
         text: |
           TBD
         image:
@@ -163,12 +182,12 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >+
+      Build whimsical defenses, wield powerful relics, and command magical snow
+      guardians to survive the infernal chaos. Can you hold the line through
+      endless nights and defeat the Frostfallen King?
+
     actions: []
     media:
       type: VideoBlock
@@ -207,122 +226,6 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: System Requirements
-      color: text-light
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    plans:
-      - type: PricingPlan
-        title: Windows
-        price: ''
-        details: ''
-        description: |
-          Minimum:
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: DividerSection
-    title: Divider
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Let us know what you think
-      color: text-light
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-neutral
-    colors: bg-dark-fg-light
 slug: SCIH
 seo:
   type: Seo
