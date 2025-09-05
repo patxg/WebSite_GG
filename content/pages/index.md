@@ -108,7 +108,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Project X
+      - title: Project Z
         tagline: This is the tagline
         subtitle: July 2028
         text: |
