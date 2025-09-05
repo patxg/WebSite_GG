@@ -128,7 +128,7 @@ sections:
         title: Coming Soon
         tagline: Steam Launch
         subtitle: >-
-          We’re still finalizing the launch date — but our goal is to bring
+          We’re still finalizing the launch date... but our goal is to bring
           Snowball’s Chance in Hell to Steam once we’ve polished every
           snowflake. Stay tuned for the big reveal!
         text: |
