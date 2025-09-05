@@ -68,7 +68,7 @@ sections:
         text: |
           Fall 2025
         image:
-          url: /images/snowballs_chance.png
+          url: /images/SCIH.png
           altText: Placeholder Image
           styles:
             self:
