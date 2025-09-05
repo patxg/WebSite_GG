@@ -88,7 +88,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Made of Clay
+        title: Snowball's Chance in Hell
         tagline: ''
         subtitle: Roguelite
         text: >
