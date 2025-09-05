@@ -154,30 +154,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Game Consulting
-        subtitle: ''
-        text: |
-          ...
-        image:
-          url: /images/Consulting (2).png
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-        tagline: ''
       - type: FeaturedItem
         title: Indie Solutions
         subtitle: ''
