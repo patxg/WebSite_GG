@@ -62,31 +62,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Snowball's Chance In Hell
-        tagline: Tower Defense / Strategy
-        subtitle: >-
-          A tactical tower defense where snow forts, magical guardians, and
-          cursed relics are your only hope against endless waves of hellspawn.
-        text: |
-          Fall 2025
-        image:
-          url: /images/SCIH_Web.png
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
       - type: FeaturedItem
         title: Snowball's Chance in Hell
         tagline: ''
@@ -117,6 +92,31 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - title: Snowball's Chance In Hell
+        tagline: Tower Defense / Strategy
+        subtitle: >-
+          A tactical tower defense where snow forts, magical guardians, and
+          cursed relics are your only hope against endless waves of hellspawn.
+        text: |
+          Fall 2025
+        image:
+          url: /images/SCIH_Web.png
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
       - title: Project Z
         tagline: ''
         subtitle: Survival
