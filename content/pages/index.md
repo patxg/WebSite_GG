@@ -198,9 +198,10 @@ sections:
         tagline: 'Original worlds, unapologetic ideas'
         subtitle: ''
         text: >
-          We create games that challenge, entertain, and make you think. From
-          surreal shooters to meditative explorations, Guilty Games delivers
-          unique experiences built with passion and purpose.
+          We know the challenges small teams face because we live them too. Our
+          indie support services cover publishing strategies, pipeline
+          optimization, and custom tools to give you more time to focus on
+          making great games.
         image:
           type: ImageBlock
           url: /images/Indie Solutions.png
