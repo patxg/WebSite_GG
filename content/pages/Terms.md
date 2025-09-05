@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Terms
+title: terms
 sections:
   - type: GenericSection
     title:
