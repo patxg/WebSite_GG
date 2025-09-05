@@ -296,7 +296,7 @@ sections:
     title:
       type: TitleBlock
       text: About This Game
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: left
