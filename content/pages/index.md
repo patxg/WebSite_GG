@@ -68,7 +68,7 @@ sections:
         text: |
           Fall 2025
         image:
-          url: /images/SCIH.png
+          url: /images/SCIH_Web.png
           altText: Placeholder Image
           styles:
             self:
