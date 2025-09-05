@@ -86,7 +86,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Made of Clay
-        tagline: This is the tagline
+        tagline: Steam Store
         subtitle: July 2026
         text: |
           Summer 2026
