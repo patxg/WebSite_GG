@@ -171,8 +171,10 @@ sections:
         title: Games
         tagline: 'Original worlds, unapologetic ideas'
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          We create games that challenge, entertain, and make you think. From
+          surreal shooters to meditative explorations, Guilty Games delivers
+          unique experiences built with passion and purpose.
         image:
           type: ImageBlock
           url: /images/Consulting (2).png
