@@ -63,7 +63,7 @@ sections:
     subtitle: ''
     items:
       - title: Snowball's Chance In Hell
-        tagline: This is the tagline
+        tagline: Tower Defense / Strategy
         subtitle: >-
           A tactical tower defense where snow forts, magical guardians, and
           cursed relics are your only hope against endless waves of hellspawn.
