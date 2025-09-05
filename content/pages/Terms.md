@@ -8,95 +8,143 @@ sections:
       text: Terms of Service
       color: text-dark
     subtitle: The rules of the road for using Guilty Games websites & services.
-    text: >
-      **About Us & This Policy** Overview
+    text: >+
+      **Ability to Accept Terms**
+       Who can use our Sites
+
+      <sub>By using Guilty Games websites or services, you affirm that you are
+      at
+
+      least 18 years old, an emancipated minor, or have parental/guardian
+
+      consent. You must be competent and able to agree to these Terms.</sub>
 
 
-      <sub>This Privacy Policy explains when we collect information about you,
+      **Accounts**
+       Responsibilities
 
-      what we collect, why we collect it, how we use it, who we share it
+      <sub>Some games or services may require accounts. You are responsible for
 
-      with, and your choices. Your use of our websites, games, and services
+      maintaining the confidentiality of your login information and for all
 
-      (“Services”) means you agree to these practices.</sub>
-
-
-      **Scope** Who we Are
+      activity under your account.</sub>
 
 
-      <sub>GuiltyGames LLC (“we,” “our,” “us”) controls the information
-      collected
+      **Ownership of Content**
+       Our IP
 
-      when you interact with us through our Services, including websites,
+      <sub>All text, art, code, logos, and other content on our Sites are owned
 
-      devlogs, mailing lists, and games published under the Guilty Games
+      by GuiltyGames LLC or our partners/licensors. You may use them for
 
-      label.</sub>
+      personal, non-commercial purposes only. No copying, selling, or
 
-
-      **Children’s Privacy** Under 13
-
-
-      <sub>Our Services are not directed at children under 13. We do not
-
-      knowingly collect information from children. If we learn that we have
-
-      collected personal information from a child under 13 without parental
-
-      consent, we will delete it promptly.</sub>
+      republishing without permission.</sub>
 
 
-      **Security & Retention** How We Protect Data
+      **User Generated Content**
+       Player Creations
+
+      <sub>You retain ownership of content you create and share, but grant us a
+
+      license to display and distribute it in connection with our games and
+
+      services. You are solely responsible for what you post.</sub>
 
 
-      <sub>We use industry-standard security measures to help protect your
+      **Copyright Policy**
+       DMCA Notices
 
-      information from unauthorized access, loss, or misuse. However, no
+      <sub>If you believe your copyrighted work has been used on our Sites
 
-      system is 100% secure. We retain information only as long as necessary
+      without permission, send a proper DMCA notice to our designated
 
-      to operate our Services and comply with legal obligations.</sub>
-
-
-      **Your Choices & Rights** Control
+      agent: </sub>**<sub>guiltygamestudio\@gmail.com</sub>**
 
 
-      <sub>You may request access, correction, or deletion of your information
-      by
+      **Conduct** 
 
-      contacting us. You may also opt out of marketing communications at any
-
-      time by using the unsubscribe link or contacting us directly.</sub>
+      Play Nice
 
 
-      **International Users** Data Transfers
+      <sub>Don’t hack, exploit, harass, or break laws while using our Sites or
+
+      games. Respect others and respect the community.
+
+      </sub>
 
 
-      <sub>If you access our Services from outside the United States, your
+      **Third-Party Links
 
-      information may be transferred to and processed in the U.S. By using
-
-      our Services, you consent to this transfer.</sub>
+      ** Other Websites
 
 
-      **Changes to This Policy** Updates
+      <sub>Our Sites may contain links to third-party websites we don’t control.
+
+      We aren’t responsible for their content, policies, or practices. Use
+
+      them at your own risk.</sub>
 
 
-      <sub>We may update this Privacy Policy from time to time. If we make
+      **Contests & Promotions**
+       Rules Apply
 
-      significant changes, we will post a notice on our website. Continued
+      <sub>Giveaways, sweepstakes, and other promotions will have their own
 
-      use of our Services after updates means you accept the revised
-      Policy.</sub>
-
-
-      **Contact Us** Privacy Questions
+      rules. You must read and accept those before participating.</sub>
 
 
-      If you have questions about this Privacy Policy or your information,
+      **Disclaimer of Warranties**
+       As-Is
 
-      contact us at **Email:**
-      [*guiltygamestudio@gmail.com*](mailto:guiltygamestudio@gmail.com)
+      <sub>Our Sites and games are provided “as is.” We disclaim all warranties,
+
+      express or implied, including merchantability, fitness for a
+
+      particular purpose, and non-infringement.</sub>
+
+
+      **Limitation of Liability**
+       No Big Damages
+
+      <sub>To the fullest extent permitted by law, GuiltyGames LLC and its
+
+      affiliates will not be liable for indirect, incidental, or
+
+      consequential damages related to your use of our Sites or games.</sub>
+
+
+      **Indemnity
+
+      ** Your Responsibility
+
+
+      <sub>You agree to indemnify and hold harmless GuiltyGames LLC, its team,
+
+      and partners from any claims or damages arising out of your use of our
+
+      Sites, games, or violation of these Terms.</sub>
+
+
+      **Termination
+
+      ** Ending Access
+
+
+      <sub>We may suspend or terminate your access at any time, for any reason,
+
+      including violation of these Terms.</sub>
+
+
+      **Governing Law**
+       Jurisdiction
+
+      <sub>These Terms are governed by the laws of the State of Virginia, United
+      States of America. Any disputes will be resolved in the courts of that
+
+      state.</sub>
+
+
     actions: []
     media:
       type: ImageBlock
