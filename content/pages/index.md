@@ -194,7 +194,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Games
+        title: Indie Solutions
         tagline: 'Original worlds, unapologetic ideas'
         subtitle: ''
         text: >
