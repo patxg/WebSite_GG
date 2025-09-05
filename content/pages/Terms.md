@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Privacy
+title: Terms
 sections:
   - type: GenericSection
     title:
