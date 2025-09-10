@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Project Z
+title: Made of Clay
 sections:
   - type: GenericSection
     title:
