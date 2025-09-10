@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Project Z
+      text: Made of Clay
       color: text-light
     subtitle: Crafting Game / Survival Game
     text: |+
