@@ -27,7 +27,7 @@ sections:
       - type: Button
         label: Steam
         altText: ''
-        url: /
+        url: 'https://store.steampowered.com/app/3741400/Snowballs_Chance_In_Hell/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
