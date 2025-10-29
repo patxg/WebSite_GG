@@ -34,7 +34,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Discord
+        label: Wishlist
         altText: ''
         url: 'https://discord.gg/hmjrNCJyTa'
         showIcon: false
