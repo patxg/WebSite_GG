@@ -36,7 +36,7 @@ sections:
       - type: Button
         label: Wishlist
         altText: ''
-        url: 'https://discord.gg/hmjrNCJyTa'
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
