@@ -190,7 +190,7 @@ sections:
           unique experiences built with passion and purpose.
         image:
           type: ImageBlock
-          url: /images/Consulting (2).png
+          url: /images/Games.png
           altText: Placeholder image
           styles:
             self:
