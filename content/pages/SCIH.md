@@ -33,15 +33,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Button
-        label: Wishlist
-        altText: ''
-        url: ''
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/desktopicon.png
