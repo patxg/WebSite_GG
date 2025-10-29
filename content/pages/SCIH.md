@@ -217,7 +217,7 @@ slug: SCIH
 seo:
   type: Seo
   metaTitle: Snowball's Chance In Hell
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Tower Defense Game
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
