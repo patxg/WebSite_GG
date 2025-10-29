@@ -243,7 +243,7 @@ sections:
           release, we’ll help you turn creative visions into reality.
         image:
           type: ImageBlock
-          url: /images/Consulting.png
+          url: /images/Consulting_1.png
           altText: Placeholder image
           styles:
             self:
