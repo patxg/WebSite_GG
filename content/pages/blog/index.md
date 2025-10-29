@@ -3,62 +3,7 @@ title: Game Blogs
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
-topSections:
-  - title:
-      text: Snowball's Chance In Hell
-      color: text-dark
-      type: TitleBlock
-    subtitle: Currently in Wishlist
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - type: GenericSection
-    subtitle: ....
-    text: |
-      First Trailer for Snowball's Chance in Hell
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/gzdessP4J60'
-      autoplay: true
-      loop: true
-      muted: false
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
+topSections: []
 styles:
   title:
     textAlign: center
@@ -75,13 +20,13 @@ postFeed:
   type: PagedPostsSection
   title: null
   subtitle: null
-  showThumbnail: true
+  showThumbnail: false
   showExcerpt: false
   showDate: false
   showAuthor: false
   actions: []
   elementId: null
   variant: three-col-grid
-  colors: bg-light-fg-dark
+  colors: bg-dark-fg-light
   hoverEffect: move-up
 ---

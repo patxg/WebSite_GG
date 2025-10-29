@@ -1,9 +1,8 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Noah",
+    "role": "Software Engineer Intern",
     "image": {
-        "url": "/images/avatar6.svg",
         "altText": "Harrison Tally",
         "styles": {
             "self": {

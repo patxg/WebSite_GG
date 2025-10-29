@@ -1,7 +1,7 @@
 ---
-title: Case study 2
+title: Made of Clay
 slug: case-study-2
-date: '2022-02-16'
+date: '2026-05-01'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
