@@ -288,5 +288,6 @@ seo:
   socialImage: /images/Logo.png
   type: Seo
   metaTags: []
+  addTitleSuffix: true
 type: PageLayout
 ---
