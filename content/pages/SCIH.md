@@ -216,7 +216,7 @@ sections:
 slug: SCIH
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Snowball's Chance In Hell
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   metaTags: []
