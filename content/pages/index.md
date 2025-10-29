@@ -217,7 +217,7 @@ sections:
           making great games.
         image:
           type: ImageBlock
-          url: /images/Indie Solutions.png
+          url: /images/Indie Solutions_1.png
           altText: Placeholder image
           styles:
             self:
