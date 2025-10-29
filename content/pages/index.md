@@ -66,14 +66,13 @@ sections:
         title: Snowball's Chance in Hell
         tagline: ''
         subtitle: Tower Defense / Strategy
-        text: >+
+        text: >
           A tactical tower defense where snow forts, magical guardians, and
           cursed relics are your only hope against endless waves of hellspawn.
 
 
-
-          **Coming to STEAM:** Fall 2025
-
+          [**Wishlist on
+          STEAM**](https://store.steampowered.com/app/3741400/Snowballs_Chance_In_Hell/)
         image:
           type: ImageBlock
           url: /images/SCIH_Web.png
