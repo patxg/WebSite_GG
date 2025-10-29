@@ -287,5 +287,7 @@ seo:
   metaDescription: Guilty Games
   socialImage: /images/Logo.png
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
