@@ -285,7 +285,7 @@ sections:
 seo:
   metaTitle: Home
   metaDescription: Guilty Games
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Logo.png
   type: Seo
 type: PageLayout
 ---
