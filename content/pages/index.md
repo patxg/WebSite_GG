@@ -283,10 +283,11 @@ sections:
           - pr-7
     type: DividerSection
 seo:
-  metaTitle: Home
+  metaTitle: ''
   metaDescription: Guilty Games
   socialImage: /images/Logo.png
   type: Seo
   metaTags: []
+  addTitleSuffix: true
 type: PageLayout
 ---
