@@ -218,6 +218,6 @@ seo:
   type: Seo
   metaTitle: Snowball's Chance In Hell
   metaDescription: Tower Defense Game - Snowball's Chance In Hell
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Library Hero.png
   metaTags: []
 ---
