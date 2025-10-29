@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Steam
         altText: ''
-        url: /
+        url: 'https://store.steampowered.com/search/?developer=Guilty%20Games'
         showIcon: false
         icon: arrowRight
         iconPosition: right
