@@ -92,7 +92,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Made of Clay
+        title: 'Dreidel: Last Light'
         tagline: ''
         subtitle: Roguelite
         text: >
